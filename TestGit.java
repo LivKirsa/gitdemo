@@ -1,3 +1,5 @@
 class TestGit {
 
-public static void main(String
+public static void main(String[] args){
+}
+}
